@@ -27,7 +27,7 @@ The project is built using **HTML**, **CSS**, and **JavaScript**. It's designed 
 ## Installation Instructions
 1. Clone or download this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/notes-generator.git
+   git clone https://github.com/Oussama-A-Belaiche/notes-generator.git
    ```
 2. Navigate to the project directory:
    ```bash
